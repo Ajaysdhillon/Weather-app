@@ -5,7 +5,7 @@ import Form from "./Components/Form";
 import Weather from "./Components/Weather";
 
 const API_KEY = "7ec72f441489756a6c7a1d18081cdd54";
-
+//This is to commit changes in git
 class App extends React.Component {
   state = {
     temperature: undefined,
